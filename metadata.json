@@ -1,0 +1,7 @@
+{
+  "name": "CampusRide",
+  "description": "A peer-to-peer campus ride-sharing platform for Indian college students. Connect riders with bikes to students needing a lift across campus.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
